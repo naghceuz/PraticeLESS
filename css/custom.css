@@ -1,8 +1,8 @@
 body {
-    background: url('../img/background2.jpg') no-repeat 50% 0% fixed;
+    background: url('../img/blue_clouds.jpg') no-repeat 50% 0% fixed;
     background-size: 100%; 
 
-    background: url('../img/background2.jpg') no-repeat center center fixed;
+    background: url('../img/blue_clouds.jpg') no-repeat center center fixed;
 
    -webkit-background-size: cover;  
   -moz-background-size: cover;  
@@ -10,3 +10,10 @@ body {
   background-size: cover;  
   -ms-
 }
+
+
+.center-block{
+    text-align: center;
+}
+
+
